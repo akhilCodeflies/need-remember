@@ -1,0 +1,2 @@
+## Create a tar file on server
+sudo tar -zcvf story.tar.gz story/
